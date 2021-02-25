@@ -1,5 +1,9 @@
 # DisplaySsrs
 
+# What is this project for?
+
+I needed to display some SSRS reports within our webscreens. This is a clean, simple way using iframes. One requirement was to limit/prevent the users from accessing the SSRS web portal. It seems that this method helps to hide where it's pulling the reports from.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
